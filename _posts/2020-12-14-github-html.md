@@ -2,8 +2,6 @@
 layout: page
 title: "Github HTML file reader"
 subtitle: Render the html files in public Github repositories
-icon: "fab fa-github"
-icon-color: "#e6b3ff"
 permalink: /github-html
 ---
 

@@ -1,0 +1,17 @@
+#json, #code {
+  width: 49.52%;
+  height: 18em;
+  font-size: 14px;
+  font-family: MONACO;
+  line-height: 1.5;
+}
+#code {
+  margin-right: -10%;
+}
+
+
+#output {
+  padding: .5em;
+  line-height: 1.5;
+  outline: 1px solid green;
+}
