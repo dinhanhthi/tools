@@ -1,5 +1,5 @@
+baseurl: ""
 url: "http://localhost:5000"
-
 plugins:
     - jemoji
     # - jekyll-sitemap
