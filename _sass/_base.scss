@@ -1,0 +1,13 @@
+body {
+	font-family: $font-main;
+	background: #eee;
+}
+
+h1, h2, h3 {
+	font-family: $font-heading;
+}
+
+header{
+	margin-bottom: 2rem;
+	border-bottom: 1px solid #ddd;
+}

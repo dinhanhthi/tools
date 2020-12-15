@@ -1,4 +1,9 @@
 ---
 ---
 
+$font-main: Helvetica, sans-serif;
+$font-heading: "Big Shoulders Stencil Text", cursive;
+
+@import "base";
 @import 'index';
+@import 'page';
