@@ -1,11 +1,13 @@
 ---
 layout: page
 title: "Nunjucks editor online"
-subtitle: Automatically open a jupyter notebook on Github in Colab
+subtitle: "For testing quickly nunjuck code"
+subtitle: Convert
 permalink: /github-colab
 ---
 
-Source code from [this url](https://codepen.io/netwjx/pen/xOPVKx).
+👉 Source code from [this url](https://codepen.io/netwjx/pen/xOPVKx). <br />
+👉 [Nunjuck official document](https://mozilla.github.io/nunjucks/templating.html).
 
 <link rel="stylesheet" href="{{site.url}}{{site.baseurl}}/external_assets/nunjuck-online/style.css">
 
